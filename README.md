@@ -1,1 +1,2 @@
-# Roblox-RBXDev-at-UC-San-Diego-Lua-Scripting-Exercises
+# Roblox + RBXDev at UC San Diego Lua Scripting Exercises
+
