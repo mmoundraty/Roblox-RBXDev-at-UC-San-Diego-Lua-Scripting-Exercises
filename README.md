@@ -19,31 +19,24 @@ Also edit parts where it says -- [[ CODE HERE ]] --
 ### 1.1 Printing your First Line <br>
 Print is used to show messages in the Output window. <br>
 <br>
-`TODO:
-Try writing your first line of code by typing:
-print("Hello, world!") <br>`
+`TODO: Try writing your first line of code by typing print("Hello, world!")`
 
 1.2 <br>
 You can do this repeatedly as well. <br>
 <br>
-TODO: <br>
-Code 3 seperate lines where you print your Name, Major, and College. <br>
+`TODO: Code 3 seperate lines where you print your Name, Major, and College.`
 
 1.3 <br>
 You can also print numbers in two ways <br>
-Example: <br>
-print(67) & print("67") <br>
+Example: print(67) or print("67") <br>
 <br>
-TODO: <br>
-Try it yourself, but with negative numbers <br>
+`TODO: Try it yourself, but with negative numbers`
 
 1.4 <br>
-<br>
-TODO: <br>
-Now try printing a triangle like this: <br>
-<br>	
-	* <br>
-	** <br>
-	*** <br>
-	**** <br>
-	***** <br>
+`TODO: 
+Now try printing a triangle like this: 
+	* 
+	** 
+	*** 
+	**** 
+	***** `
