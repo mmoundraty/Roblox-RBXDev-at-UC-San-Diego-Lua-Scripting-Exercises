@@ -21,18 +21,18 @@ Print is used to show messages in the Output window. <br>
 <br>
 `TODO: Try writing your first line of code by typing print("Hello, world!")`
 
-1.2 <br>
+### 1.2 Printing more than one line <br>
 You can do this repeatedly as well. <br>
 <br>
 `TODO: Code 3 seperate lines where you print your Name, Major, and College.`
 
-1.3 <br>
+### 1.3 Printing Numbers <br>
 You can also print numbers in two ways <br>
 E.g: `print(67)` or `print("67")` <br>
 <br>
 `TODO: Try it yourself, but with negative numbers`
 
-1.4 <br>
+### 1.4 Using multiple print statements to make a picture <br>
 ```
 TODO: Now try printing a triangle like this
 * 
@@ -41,4 +41,17 @@ TODO: Now try printing a triangle like this
 **** 
 *****
 ```
+<br>
+
+### 1.5 Newline <br>
+If you do not like printing multiple lines to have a new line. Then you can use the newline character `'\n'` <br>
+E.g: `print("Hello \n World")` <br>
+prints <br>
+```
+Hello
+World
+```
+<br>
+
+`TODO: Remember from 1.2 where you printed your Name, Major, and College? Do that again but instead of using multiple print statements, use one print statement using '\n'`
 
