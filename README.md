@@ -28,15 +28,17 @@ You can do this repeatedly as well. <br>
 
 1.3 <br>
 You can also print numbers in two ways <br>
-Example: print(67) or print("67") <br>
+E.g: `print(67)` or `print("67")` <br>
 <br>
 `TODO: Try it yourself, but with negative numbers`
 
 1.4 <br>
-`TODO: 
-Now try printing a triangle like this: 
-	* 
-	** 
-	*** 
-	**** 
-	***** `
+```
+TODO: Now try printing a triangle like this
+* 
+** 
+*** 
+**** 
+*****
+```
+
