@@ -36,3 +36,14 @@ print(67) & print("67") <br>
 <br>
 TODO: <br>
 Try it yourself, but with negative numbers <br>
+
+1.4 <br>
+<br>
+TODO: <br>
+Now try printing a triangle like this: <br>
+<br>	
+	* <br>
+	** <br>
+	*** <br>
+	**** <br>
+	***** <br>
