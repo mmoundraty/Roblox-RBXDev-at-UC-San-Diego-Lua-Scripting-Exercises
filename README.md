@@ -17,7 +17,7 @@ Also edit parts where it says -- [[ CODE HERE ]] --
 ## 1. Print Statements
 
 __1.1__
-Print is used to show messages in the Output window.
+Print is used to show messages in the Output window. <br>
 Try writing your first line of code by typing:
 print("Hello, world!")
 
