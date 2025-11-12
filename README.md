@@ -16,12 +16,12 @@ Also edit parts where it says -- [[ CODE HERE ]] --
 
 ## 1. Print Statements
 
-1.1 <br>
+### 1.1 Printing your First Line <br>
 Print is used to show messages in the Output window. <br>
 <br>
-TODO: <br>
-Try writing your first line of code by typing: <br>
-print("Hello, world!") <br>
+`TODO:
+Try writing your first line of code by typing:
+print("Hello, world!") <br>`
 
 1.2 <br>
 You can do this repeatedly as well. <br>
