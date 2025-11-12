@@ -28,7 +28,7 @@ You can do this repeatedly as well. <br>
 
 ### 1.3 Printing Numbers <br>
 You can also print numbers in two ways <br>
-E.g: `print(67)` or `print("67")` <br>
+e.g: `print(67)` or `print("67")` <br>
 <br>
 `TODO: Try it yourself, but with negative numbers`
 
@@ -45,13 +45,22 @@ TODO: Now try printing a triangle like this
 
 ### 1.5 Newline <br>
 If you do not like printing multiple lines to have a new line. Then you can use the newline character `'\n'` <br>
-E.g: `print("Hello \n World")` <br>
-prints <br>
+e.g: `print("Hello \n World")` prints <br>
 ```
 Hello
 World
 ```
 <br>
 
-`TODO: Remember from 1.2 where you printed your Name, Major, and College? Do that again but instead of using multiple print statements, use one print statement using '\n'`
+`TODO: Print your Name, Major, and College using one line with the '\n' character`
+
+### 1.6 Concatenation <br>
+Concatenation combines your strings into a single string. <br>
+e.g `print("Hello" .. "World")` prints `HelloWorld`<br>
+You might be wondering why there isn't a space. That is because you manually need to add a space in your second string, like this: `print("Hello" .. " World")` prints `Hello World`. <br>
+Great! Now you know how to concatenate strings using the `..` operator but there is another way to concatenate strings by doing `,` which automatically adds a space for you. <br>
+e.g `print("Hello", "World")` prints `Hello World` <br>
+<br>
+`TODO: Print your Name, Major, and College using Concatenation with either '..' or ',' `<br>
+
 
