@@ -16,11 +16,11 @@ Also edit parts where it says -- [[ CODE HERE ]] --
 
 ## 1. Print Statements
 
-__1.1__
+__1.1__ <br>
 Print is used to show messages in the Output window. <br>
-Try writing your first line of code by typing:
-print("Hello, world!")
+Try writing your first line of code by typing: <br>
+print("Hello, world!") <br>
 
-__1.2__
-You can do this repeatedly as well. 
-Code 3 seperate lines where you print your Name, Major, and College.
+__1.2__ <br>
+You can do this repeatedly as well. <br>
+Code 3 seperate lines where you print your Name, Major, and College. <br>
