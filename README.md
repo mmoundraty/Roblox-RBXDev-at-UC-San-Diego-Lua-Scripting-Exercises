@@ -57,10 +57,7 @@ World
 ### 1.6 Concatenation <br>
 Concatenation combines your strings into a single string. <br>
 e.g `print("Hello" .. "World")` prints `HelloWorld`<br><br>
-You might be wondering why there isn't a space. That is because you manually need to add a space in your second string, like this: `print("Hello" .. " World")` prints `Hello World`. <br><br>
-Great! Now you know how to concatenate strings using the `..` operator but there is another way to concatenate strings by doing `,` which automatically adds a space for you. <br>
-e.g `print("Hello", "World")` prints `Hello World` <br>
-<br>
+You might be wondering why there isn't a space. That is because you manually need to add a space in your string, like this: `print("Hello" .. " World")` prints `Hello World`. <br>
 `TODO: Print your Name, Major, and College using Concatenation with either '..' or ',' `<br><br>
 Though you might not see the use for this in this section, the next section shows why this is very helpful.
 
