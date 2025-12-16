@@ -155,22 +155,7 @@ copy_of_order = copy_of_order .. " with no Pickles"
 print(copy_of_order)
 Output: 1 Burger with Bacon with no Pickles
 ```
-```
-TODO:
-Write a program using print statements and variables about John and Mary's conversation.
 
-John: I'm going to Cotijas Taco Shop do you want anything?
-
-Mary: Please get me 2 beef Tacos and 2 Pork Tacos.
-
-John: Okay, going on my way now.
-
-Mary: Wait sorry! Please get me 2 beef Tacos and 2 Pork Tacos and 2 Chicken Tacos.
-
-John: Okay is that all?
-
-Mary: Yes
-```
 
 ## 3. Comments
 Comments are used to add explanations, notes, or temporarily disable parts of the code without affecting the program's execution. Lua offers two types of comments: 
